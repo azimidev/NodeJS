@@ -1,0 +1,17 @@
+{
+  "name": "ws-sample",
+  "version": "1.0.0",
+  "description": "A sample of a simple websocket",
+  "main": "ws.js",
+  "scripts": {
+    "start": "open index.html & node ws"
+  },
+  "keywords": [
+    "Websocket"
+  ],
+  "author": "Amir Azimi <info@parsclick.net> (http://www.parsclick.net)",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^1.0.1"
+  }
+}

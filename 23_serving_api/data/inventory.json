@@ -1,0 +1,30 @@
+[
+  {
+    "name": "PARSCLICK 180",
+    "sku": "PC180",
+    "cost": "$162.00",
+    "retail": "$315.00",
+    "avail": "In stock"
+  },
+  {
+    "name": "PARSCLICK 200",
+    "sku": "PC200",
+    "cost": "$180.00",
+    "retail": "$350.00",
+    "avail": "In stock"
+  },
+  {
+    "name": "PARSCLICK 225",
+    "sku": "PC225",
+    "cost": "$198.00",
+    "retail": "$385.00",
+    "avail": "On back order"
+  },
+  {
+    "name": "PARSCLICK 250",
+    "sku": "PC250",
+    "cost": "$225.00",
+    "retail": "$437.50",
+    "avail": "In stock"
+  }
+]
